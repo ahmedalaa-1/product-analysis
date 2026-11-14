@@ -30,6 +30,14 @@ The project provides a business-focused view of the customer journey, helping id
 
 ---
 
+## 📥 Download Power BI File
+
+The original Power BI project file (`.pbix`) is available on Google Drive.
+
+[**Download the Power BI File (.pbix)**](https://drive.google.com/file/d/1ZQ2BoEtMiQjlIiA2R37ZR0ODMB9UNxBG/view?usp=drive_link)
+
+---
+
 ## 📊 Dashboard Pages
 
 ### 🟢 Page 1 — Executive Summary
